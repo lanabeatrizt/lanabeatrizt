@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, me chamo Lana Beatriz ! 
+## Bem vinde ao meu perfil GitHub 👋
 
-<!--
-**lanabeatrizt/lanabeatrizt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou co-fundadora e gestora do Spirit Fanfics e Histórias, plataforma brasileira de leitura e escrita colaborativa com mais de 8 milhões de contas registradas e milhões de acessos mensais desde 2006.
 
-Here are some ideas to get you started:
+Atuei em todas as frentes de gestão da plataforma: da curadoria de conteúdo à comunicação com usuários, suporte, moderação de comunidade, gestão de anúncios e assinatura premium, organização de eventos digitais e administração de redes sociais. Essa vivência me deu ampla experiência em operações digitais, marketing de conteúdo, engajamento de comunidades e experiência do usuário.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho formação em Direito (2008) e venho me especializando em marketing digital, gestão de tráfego pago, front-end e UI/UX design para expandir minhas habilidades técnicas e estratégicas.
+
+Busco agora aplicar essa bagagem em novos desafios profissionais, especialmente nas áreas de:
+ • Gestão de produto digital (Product Management)
+ • Marketing digital e tráfego pago
+ • UI/UX design e experiência do usuário
+ • Gestão e engajamento de comunidades online
+
+Apaixonada por tecnologia, literatura e educação, acredito no poder das plataformas digitais para criar comunidades, democratizar conhecimento e gerar impacto positivo.
