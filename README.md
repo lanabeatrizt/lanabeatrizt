@@ -1,7 +1,5 @@
-![3BB66EFA-9753-4673-85A1-C7621FFC2C76](https://github.com/user-attachments/assets/2bda9a3f-dff1-4875-8c8c-c64d47506d16)
-<img width="1024" height="1024" alt="16779882-D0CA-40F3-BB7C-AD640778B570" src="https://github.com/user-attachments/assets/f0026e09-8b42-4965-a0e6-edb76c6e0318" />
 # Olá, me chamo Lana Beatriz ! 
-## Bem vinde ao meu perfil GitHub 👋
+## Bem vindo(a) ao meu perfil GitHub 👋
 
 Sou co-fundadora e gestora do <a href="https://www.spiritfanfiction.com/" target="_blank">*Spirit Fanfics e Histórias*</a>, plataforma brasileira de leitura e escrita colaborativa com mais de 8 milhões de contas registradas e milhões de acessos mensais desde 2006.
 
