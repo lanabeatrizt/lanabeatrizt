@@ -8,15 +8,15 @@ No Spirit, atuei em múltiplas áreas de gestão: curadoria de conteúdo, comuni
 Sou bacharel em Direito (2008) e venho me especializando em marketing digital, gestão de tráfego pago, front-end e UI/UX design, ampliando minhas habilidades técnicas e estratégicas.
 
 🎯 Áreas de interesse e atuação
-	-	Gestão de produto digital (Product Management)
-	-	Marketing digital e tráfego pago
-	-	UI/UX design e experiência do usuário
-	-	Gestão e engajamento de comunidades online
+- Gestão de produto digital (Product Management)
+- Marketing digital e tráfego pago
+- UI/UX design e experiência do usuário
+- Gestão e engajamento de comunidades online
 
 Apaixonada por tecnologia, literatura e educação, acredito no poder das plataformas digitais para formar comunidades, democratizar conhecimento e gerar impacto positivo.
 
 
-## 📬 Contatos:
+## 📬 Contatos
 <div>
 <a href="https://instagram.com/lanabeatriz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:lana@spiritfanfiction.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
