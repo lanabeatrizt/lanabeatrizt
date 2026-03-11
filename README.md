@@ -5,7 +5,9 @@ Sou co-fundadora e gestora do <a href="https://www.spiritfanfiction.com/" target
 
 No Spirit, atuei em múltiplas áreas de gestão: curadoria de conteúdo, comunicação com usuários, suporte, moderação de comunidade, gestão de anúncios e assinatura premium, organização de eventos digitais e administração de redes sociais. Essa experiência me deu uma visão ampla sobre operações digitais, marketing de conteúdo, engajamento de comunidades e experiência do usuário.
 
-Sou bacharel em Direito (2008) e venho me especializando em marketing digital, gestão de tráfego pago, front-end e UI/UX design, ampliando minhas habilidades técnicas e estratégicas.
+Tenho formação em Direito e venho me especializando em marketing digital, gestão de tráfego pago, front-end e UI/UX design para expandir minhas habilidades técnicas e estratégicas.
+
+Atualmente aprovada em Análise e Desenvolvimento de Sistemas pela FATEC, busco aplicar minha experiência prática em plataformas digitais aliada à formação técnica em tecnologia para assumir novos desafios profissionais, especialmente nas áreas de:
 
 🎯 Áreas de interesse e atuação
 - Gestão de produto digital (Product Management)
