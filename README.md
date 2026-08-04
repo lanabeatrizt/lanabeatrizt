@@ -1,7 +1,7 @@
 # Olá, me chamo Lana Beatriz ! 
 ## Bem vindo(a) ao meu perfil GitHub 👋
 
-Sou co-fundadora e gestora do <a href="https://www.spiritfanfiction.com/" target="_blank">*Spirit Fanfics e Histórias*</a>, plataforma brasileira de leitura e escrita colaborativa com mais de 8 milhões de contas registradas e milhões de acessos mensais desde 2006.
+Sou co-fundadora e gestora do <a href="https://www.spiritfanfiction.com/" target="_blank">*Spirit Fanfics e Histórias*</a>, plataforma brasileira de leitura e escrita colaborativa com mais de 8 milhões de contas registradas e milhões de usuários.
 
 No Spirit, atuei em múltiplas áreas de gestão: curadoria de conteúdo, comunicação com usuários, suporte, moderação de comunidade, gestão de anúncios e assinatura premium, organização de eventos digitais e administração de redes sociais. Essa experiência me deu uma visão ampla sobre operações digitais, marketing de conteúdo, engajamento de comunidades e experiência do usuário.
 
